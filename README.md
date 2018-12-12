@@ -17,7 +17,7 @@ wget https://geolite.maxmind.com/download/geoip/database/GeoLite2-Country.tar.gz
 tar xvf GeoLite2-City.tar.gz
 tar xvf GeoLite2-Country.tar.gz
 mv GeoLite2-City_20181204/GeoLite2-City.mmdb ..
-mv GeoLite2-City_20181204/GeoLite2-Country.mmdb ..
+mv GeoLite2-Country_20181204/GeoLite2-Country.mmdb ..
 cd ..
 ```
 
